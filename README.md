@@ -1,3 +1,7 @@
+![Coding GIF](https://media.giphy.com/media/3o6Zt5zVwR8m1B8Pfu/giphy.gif)
+
+
+
 ## 👋 Hi there!  
 
 I'm a **backend developer** who loves crafting cool stuff with **Python**, **Django**, and **DRF**.  
