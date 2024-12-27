@@ -1,4 +1,4 @@
-![Coding GIF](https://media.giphy.com/media/3o6Zt5zVwR8m1B8Pfu/giphy.gif)
+![programmer](https://www.tarhbama.com/wp-content/uploads/2022/06/programmer-coding.gif)
 
 
 
