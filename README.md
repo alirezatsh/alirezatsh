@@ -1,4 +1,4 @@
-![programmer](https://www.tarhbama.com/wp-content/uploads/2022/06/programmer-coding.gif)
+![Reading Code](https://www.timecode.ir/wp-content/uploads/2021/11/reading-computer-codes.gif)
 
 
 
