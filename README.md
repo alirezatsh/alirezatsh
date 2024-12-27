@@ -1,4 +1,4 @@
-![Reading Code](https://www.timecode.ir/wp-content/uploads/2021/11/reading-computer-codes.gif)
+![Programmer Coding](https://media.giphy.com/media/26tPoyDhjiJ2Xb8U4/giphy.gif)
 
 
 
