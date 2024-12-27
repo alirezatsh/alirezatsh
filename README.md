@@ -1,4 +1,4 @@
-![Alireza Tashakkori](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+This+is+Alireza+Tashakkori+83+Nasr;+Nice+to+meet+you!&center=true&size=28)
+![Alireza Tashakkori](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+This+is+Alireza+Tashakkori;+Nice+to+meet+you!&center=true&size=28)
 
 
 
