@@ -6,9 +6,10 @@ Lately, I've been exploring **Linux systems**, and I’m absolutely loving it!
 
 Always excited to learn new skills, take on challenges, and grow as a developer. 🚀  
 
-## my favorite languages
+## my skills
 
-<p align="left">
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
@@ -33,7 +34,7 @@ Always excited to learn new skills, take on challenges, and grow as a developer.
   <a href="https://getbootstrap.com">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
-</p>
+</div>
 
 
 
