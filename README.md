@@ -7,7 +7,7 @@ Lately, I've been exploring **Linux systems**, and I’m absolutely loving it!
 Always excited to learn new skills, take on challenges, and grow as a developer. 🚀  
 
 ## my favorite languages
-<p align="center">
+<p align="left">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python">
   </a>
