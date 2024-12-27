@@ -6,7 +6,7 @@ Lately, I've been exploring **Linux systems**, and I’m absolutely loving it!
 
 Always excited to learn new skills, take on challenges, and grow as a developer. 🚀  
 
-## 🚀 My Skills & Interests  
+## 👨‍💻 My Skills & Interests  
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
