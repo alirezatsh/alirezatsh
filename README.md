@@ -1,4 +1,4 @@
-![برنامه‌نویس در حال کدنویسی](https://www.timecode.ir/wp-content/uploads/2021/11/reading-computer-codes.gif)
+![Alireza Tashakkori](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+This+is+Amir+83+Nasr;+Nice+to+meet+you!&center=true&size=28)
 
 
 
