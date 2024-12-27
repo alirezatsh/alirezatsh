@@ -1,4 +1,4 @@
-![programmer](https://raw.githubusercontent.com/1995parham/1995parham/
+![برنامه‌نویس در حال کدنویسی](https://www.timecode.ir/wp-content/uploads/2021/11/reading-computer-codes.gif)
 
 
 
