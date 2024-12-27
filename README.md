@@ -1,4 +1,4 @@
-![برنامه‌نویس در حال کدنویسی](https://raw.githubusercontent.com/1995parham/1995parham/
+![programmer](https://raw.githubusercontent.com/1995parham/1995parham/
 
 
 
