@@ -1,4 +1,4 @@
-![Alireza Tashakkori](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;+This+is+Alireza+&left=true&size=28)
+![Alireza Tashakkori](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;+I+am+Alireza+&left=true&size=28)
 
 
 I'm a **backend developer** who loves crafting cool stuff with **Python**, **Django**, and **DRF**.  
